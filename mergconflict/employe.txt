@@ -1,3 +1,5 @@
 Name: John
 Department: IT
-Salary: 70000
+
+Salary: 65000
+
