@@ -1,0 +1,3 @@
+Name: John
+Department: IT
+Salary: 50000
